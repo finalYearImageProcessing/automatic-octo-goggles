@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "148630510769",
+    "firebase_url": "https://imageprocessing-ed782.firebaseio.com",
+    "project_id": "imageprocessing-ed782",
+    "storage_bucket": "imageprocessing-ed782.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148630510769:android:0dc1e16a4dc7886f",
+        "android_client_info": {
+          "package_name": "textextraction.finalyear.demo.imageprocessing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148630510769-kjn5jmecs4u6r6a1d2g8jki1n1ru4bf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK7xKr9U3TLN7-3gPS7iSlN6-NVRGc3Rg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
